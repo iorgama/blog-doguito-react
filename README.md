@@ -6,3 +6,7 @@ Projeto desenvolvido durante a formação de React Js da Alura. O objetivo foi d
 
 - React Router Dom
 - Axios
+- React Js
+
+## Url do projeto:
+[Projeto Doguito](https://blog-doguito-react.vercel.app)
